@@ -2,7 +2,7 @@ package testGit;
 
 /**
  * 
- * this class is cool try3
+ * this class is cool try5
  *
  */
 public class mysecondclass {
